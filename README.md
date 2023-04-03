@@ -5,11 +5,11 @@ I.
 For backend verification from the Database:
 
 
-	- MySQL workbench latest version 8.0.19 
+	* MySQL workbench latest version 8.0.19 
 	
-		- Download: https://dev.mysql.com/downloads/workbench/ 
+		* Download: https://dev.mysql.com/downloads/workbench/ 
 		
-	- MySQL community server latest version 8.0.19
+	* MySQL community server latest version 8.0.19
 		- Download: https://dev.mysql.com/downloads/mysql/ 
 	- Download and establish a connection to server
 		- Keep track of username and password
