@@ -3,7 +3,7 @@ Installation Instructions for Running this Project (MacOS)
 I.
 For backend verification from the Database:
 	- MySQL workbench latest version 8.0.19 
-		- Download: https://dev.mysql.com/downloads/workbench/ 
+		\t- Download: https://dev.mysql.com/downloads/workbench/ 
 	- MySQL community server latest version 8.0.19
 		- Download: https://dev.mysql.com/downloads/mysql/ 
 	- Download and establish a connection to server
