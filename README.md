@@ -2,18 +2,18 @@ Installation Instructions for Running this Project (MacOS)
 
 I.
 For backend verification from the Database:
-	- MySQL workbench latest version 8.0.19 
-		\t- Download: https://dev.mysql.com/downloads/workbench/ 
-	- MySQL community server latest version 8.0.19
-		- Download: https://dev.mysql.com/downloads/mysql/ 
-	- Download and establish a connection to server
-		- Keep track of username and password
-	- Open on MySQL workbench: covid19_tracker_dump
-		- Run the dump file
-		- Refresh your schema
-		- Open a new query tab and type: USE `covid19_tracker` 
-			- Commands to view tables 
-				- SELECT * FROM person;
+	* MySQL workbench latest version 8.0.19 
+		** Download: https://dev.mysql.com/downloads/workbench/ 
+	* MySQL community server latest version 8.0.19
+		** Download: https://dev.mysql.com/downloads/mysql/ 
+	* Download and establish a connection to server
+		** Keep track of username and password
+	* Open on MySQL workbench: covid19_tracker_dump
+		** Run the dump file
+		** Refresh your schema
+		** Open a new query tab and type: USE `covid19_tracker` 
+			*** Commands to view tables 
+				**** SELECT * FROM person;
 				- SELECT * FROM hospital;
 				- SELECT * FROM infected;
 				- SELECT * FROM recovered;
