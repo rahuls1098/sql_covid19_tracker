@@ -1,15 +1,11 @@
 Installation Instructions for Running this Project (MacOS)
 
-I.
-
-For backend verification from the Database:
+I. For backend verification from the Database:
 
 
-	* MySQL workbench latest version 8.0.19 
-	
-		* Download: https://dev.mysql.com/downloads/workbench/ 
-		
-	* MySQL community server latest version 8.0.19
+	- MySQL workbench latest version 8.0.19 
+		- Download: https://dev.mysql.com/downloads/workbench/ 	
+	- MySQL community server latest version 8.0.19
 		- Download: https://dev.mysql.com/downloads/mysql/ 
 	- Download and establish a connection to server
 		- Keep track of username and password
@@ -27,8 +23,8 @@ For backend verification from the Database:
 				- SELECT * FROM hospital_visit
 				- SELECT * FROM test
 
-II.
-For running the client interface application:
+II. For running the client interface application:
+
 	- Open Mac Terminal application
 	- Download Python latest version (Python3). Two methods:
 		- (1) Download
